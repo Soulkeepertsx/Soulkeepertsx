@@ -20,7 +20,8 @@
   <h3 align="center">Current Projects</h3>
 
   <p align="center">🚀 Contributing to Indian Servers like <a
-            href="https://discord.gg/the-legend-s-roleplay-878666249528287243">The Legends Roleplay</a> and working on
+            href="https://discord.gg/the-legend-s-roleplay-878666249528287243">The Legends Roleplay</a> , <a
+            href="https://discord.gg/united-india-roleplay-1118250050401861753">United India Roleplay</a> and working on
         personal projects</p>
   <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
 <p align="center">🌐 Partnered By Bro Code</p>
